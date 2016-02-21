@@ -1,0 +1,14 @@
+{
+    "name": "vladkolodka/test",
+    "description": "Tet project",
+    "require": {
+        "paquettg/php-html-parser": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Vladislav Kolodka",
+            "email": "vladkolodka@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
